@@ -1,4 +1,24 @@
 {
+  "Empleados": [
+    {
+        "documento": "1000111",
+        "nombre": "Lis Sharik",
+        "contraseña": "12345"
+    },
+    {
+        "documento":"10101",
+        "nombre":  "Alejandro A",
+        "contraseña": "AAAAAA"
+    },
+    {
+        "documento": "123000025",
+        "nombre": "Alejandro G",
+        "contraseña": "12345"
+    }
+]
+
+
+  
   "Producto": [
     {
       "id": 123,
