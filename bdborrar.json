@@ -1,0 +1,45 @@
+{
+  "servicio": [
+    {
+      "id": "1",
+      "id_propietario": "1",
+      "id_mascota": "1",
+      "fecha": "13/01/2024",
+      "hora_llegada": "10:19",
+      "hora_salida": "11:19",
+      "servicio": "baño",
+      "estado": "pendiente"
+    }
+  ],
+
+  "mascota": [
+    {
+      "id": "1",
+      "id_propietario": "1",
+      "nombre": "Athala",
+      "especie": "gato",
+      "tamanio": "grande",
+      "pelaje": "corto"
+    }
+  ],
+  "propietario": [
+    { "id": "1", "nombre": "Lis Sharik Agudelo", "teléfono": "3023678714" }
+  ],
+
+  "citaPendiente": [
+    {
+      "id": "1",
+      "propietario": {
+        "nombre": "Lis Sharik Agudelo",
+        "teléfono": "3023678714"
+      },
+      "mascota": { "nombre": "Athala", "especie": "gato" },
+      "servicio": {
+        "fecha": "13/01/2024",
+        "hora_llegada": "10:19",
+        "servicio": "baño",
+        "estado": "pendiente"
+      }
+    }
+  ]
+}

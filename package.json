@@ -1,0 +1,22 @@
+{
+  "name": "api-splashpaws",
+  "version": "1.0.0",
+  "description": "Api que permite traer la informacion de Splashpaws",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Giroz22/API-SplashPaws.git"
+  },
+  "author": "Alejandro Giraldo Serna, Lis Sharik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Giroz22/API-SplashPaws/issues"
+  },
+  "homepage": "https://github.com/Giroz22/API-SplashPaws#readme",
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.22"
+  }
+}
