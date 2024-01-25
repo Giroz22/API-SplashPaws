@@ -1,27 +1,25 @@
 {
-  "Empleados": [
+  "empleados": [
     {
-        "documento": "1000111",
-        "nombre": "Lis Sharik",
-        "contraseña": "12345"
+      "documento": "1000111",
+      "nombre": "Lis Sharik",
+      "contraseña": "12345"
     },
     {
-        "documento":"10101",
-        "nombre":  "Alejandro A",
-        "contraseña": "AAAAAA"
+      "documento": "10101",
+      "nombre": "Alejandro A",
+      "contraseña": "AAAAAA"
     },
     {
-        "documento": "123000025",
-        "nombre": "Alejandro G",
-        "contraseña": "12345"
+      "documento": "052227",
+      "nombre": "Alejandro G",
+      "contraseña": "12345"
     }
-]
+  ],
 
-
-  
-  "Producto": [
+  "productos": [
     {
-      "id": 123,
+      "id": "123",
       "urlImagen": "/#",
       "nombre": "Chunky",
       "descripcion": "Recomendado para mascotas",
@@ -31,44 +29,72 @@
       "especie": "Perro"
     }
   ],
-
-  "Propietario": [
+  "serviciosPendientes": [
     {
       "id": "1",
-      "nombre": "Lis Sharik Agudelo",
-      "telefono": "3023678714"
-    }
-  ],
-
-  "MascotaBase": [
+      "propietario": {
+        "nombre": "Lis Sharik Agudelo",
+        "telefono": "3023678714"
+      },
+      "mascota": {
+        "nombre": "Athala",
+        "especie": "Gato"
+      },
+      "fecha": "13/01/2024",
+      "hora_llegada": "10:19",
+      "servicio": "Baño"
+    },
     {
-      "id": "1",
-      "nombre": "Athala",
-      "especie": "gato",
-      "id_propietario": "1"
+      "id": "2",
+      "propietario": {
+        "nombre": "Karen Alexa",
+        "telefono": "3023678714"
+      },
+      "mascota": {
+        "nombre": "Garu",
+        "especie": "Perro"
+      },
+      "fecha": "26/01/2024",
+      "hora_llegada": "13:19",
+      "servicio": "Baño"
     }
   ],
-  "MascotaPendiente": [
+  "serviciosBannios": [
     {
-      "id": "1",
-      "idMascotaBase": "1"
+      "fecha": "13/01/2024",
+      "hora_llegada": "10:19",
+      "hora_salida": "11:19",
+      "servicio": "baño",
+      "estado": "espera",
+      "mascota": {
+        "nombre": "Athala",
+        "especie": "gato",
+        "tamanio": "grande",
+        "pelaje": "corto"
+      },
+      "propietario": {
+        "nombre": "Lis Sharik Agudelo",
+        "telefono": "3023678714"
+      }
     }
   ],
-  "MascotaConfirmada": [],
-  "ServicioBase": [
+  "serviciosGuarderia": [
     {
-      "id": 1,
-      "fecha": "25/01/2024",
-      "hora_llegada": "12:00",
-      "tipoServicio": "baño"
+      "fecha": "13/01/2024",
+      "hora_llegada": "10:19",
+      "hora_salida": "11:19",
+      "servicio": "baño",
+      "estado": "espera",
+      "mascota": {
+        "nombre": "Athala",
+        "especie": "gato",
+        "tamanio": "grande",
+        "pelaje": "corto"
+      },
+      "propietario": {
+        "nombre": "Lis Sharik Agudelo",
+        "telefono": "3023678714"
+      }
     }
-  ],
-  "ServicioPendientes": [
-    {
-      "id": "1",
-      "ServicioBase": "1",
-      "idMascotaPendiente": "1"
-    }
-  ],
-  "ServicioConfirmado": []
+  ]
 }
