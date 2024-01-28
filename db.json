@@ -57,10 +57,263 @@
       "fecha": "26/01/2024",
       "hora_llegada": "13:19",
       "servicio": "Baño"
+    },
+    {
+      "id": "3",
+      "propietario": {
+        "nombre": "Ana Gómez",
+        "telefono": "3056789012"
+      },
+      "mascota": {
+        "nombre": "Bella",
+        "especie": "Conejo"
+      },
+      "fecha": "15/01/2024",
+      "hora_llegada": "09:45",
+      "servicio": "Vacunación"
+    },
+    {
+      "id": "4",
+      "propietario": {
+        "nombre": "Carlos Ramírez",
+        "telefono": "3045678901"
+      },
+      "mascota": {
+        "nombre": "Simba",
+        "especie": "Perro"
+      },
+      "fecha": "16/01/2024",
+      "hora_llegada": "14:00",
+      "servicio": "Baño y cepillado"
+    },
+    {
+      "id": "5",
+      "propietario": {
+        "nombre": "María Rodríguez",
+        "telefono": "3001122334"
+      },
+      "mascota": {
+        "nombre": "Whiskers",
+        "especie": "Gato"
+      },
+      "fecha": "17/01/2024",
+      "hora_llegada": "12:45",
+      "servicio": "Consulta veterinaria"
+    },
+    {
+      "id": "6",
+      "propietario": {
+        "nombre": "Pedro López",
+        "telefono": "3109876543"
+      },
+      "mascota": {
+        "nombre": "Rocky",
+        "especie": "Hámster"
+      },
+      "fecha": "18/01/2024",
+      "hora_llegada": "08:30",
+      "servicio": "Corte de uñas"
+    },
+    {
+      "id": "7",
+      "propietario": {
+        "nombre": "Isabel Sánchez",
+        "telefono": "3112233445"
+      },
+      "mascota": {
+        "nombre": "Luna",
+        "especie": "Conejo"
+      },
+      "fecha": "19/01/2024",
+      "hora_llegada": "11:15",
+      "servicio": "Desparasitación"
+    },
+    {
+      "id": "8",
+      "propietario": {
+        "nombre": "Roberto Torres",
+        "telefono": "3156677889"
+      },
+      "mascota": {
+        "nombre": "Toby",
+        "especie": "Perro"
+      },
+      "fecha": "20/01/2024",
+      "hora_llegada": "09:00",
+      "servicio": "Vacunación"
+    },
+    {
+      "id": "9",
+      "propietario": {
+        "nombre": "Laura Martínez",
+        "telefono": "3178990011"
+      },
+      "mascota": {
+        "nombre": "Coco",
+        "especie": "Gato"
+      },
+      "fecha": "21/01/2024",
+      "hora_llegada": "13:20",
+      "servicio": "Baño y corte de pelo"
+    },
+    {
+      "id": "10",
+      "propietario": {
+        "nombre": "Eduardo Gutiérrez",
+        "telefono": "3201122334"
+      },
+      "mascota": {
+        "nombre": "Buddy",
+        "especie": "Perro"
+      },
+      "fecha": "22/01/2024",
+      "hora_llegada": "10:30",
+      "servicio": "Cepillado dental"
+    },
+    {
+      "id": "11",
+      "propietario": {
+        "nombre": "Carmen Vargas",
+        "telefono": "3223344556"
+      },
+      "mascota": {
+        "nombre": "Mochi",
+        "especie": "Hámster"
+      },
+      "fecha": "23/01/2024",
+      "hora_llegada": "08:45",
+      "servicio": "Corte de uñas"
+    },
+    {
+      "id": "12",
+      "propietario": {
+        "nombre": "Javier Ruiz",
+        "telefono": "3245566778"
+      },
+      "mascota": {
+        "nombre": "Daisy",
+        "especie": "Conejo"
+      },
+      "fecha": "24/01/2024",
+      "hora_llegada": "12:00",
+      "servicio": "Baño y cepillado"
+    },
+    {
+      "id": "13a12",
+      "propietario": {
+        "nombre": "Silvia Ortega",
+        "telefono": "3267788990"
+      },
+      "mascota": {
+        "nombre": "Oliver",
+        "especie": "Gato"
+      },
+      "fecha": "25/01/2024",
+      "hora_llegada": "14:15",
+      "servicio": "Consulta veterinaria"
+    },
+    {
+      "id": "14",
+      "propietario": {
+        "nombre": "Rosa Mendoza",
+        "telefono": "3288900112"
+      },
+      "mascota": {
+        "nombre": "Leo",
+        "especie": "Perro"
+      },
+      "fecha": "26/01/2024",
+      "hora_llegada": "11:30",
+      "servicio": "Corte de pelo"
+    },
+    {
+      "id": "15",
+      "propietario": {
+        "nombre": "Daniel Castro",
+        "telefono": "3301122334"
+      },
+      "mascota": {
+        "nombre": "Misty",
+        "especie": "Gato"
+      },
+      "fecha": "27/01/2024",
+      "hora_llegada": "09:45",
+      "servicio": "Vacunación"
+    },
+    {
+      "id": "16",
+      "propietario": {
+        "nombre": "Patricia Jiménez",
+        "telefono": "3322344556"
+      },
+      "mascota": {
+        "nombre": "Bolt",
+        "especie": "Perro"
+      },
+      "fecha": "28/01/2024",
+      "hora_llegada": "14:00",
+      "servicio": "Baño y cepillado"
+    },
+    {
+      "id": "17",
+      "propietario": {
+        "nombre": "Héctor Salazar",
+        "telefono": "3344566778"
+      },
+      "mascota": {
+        "nombre": "Nala",
+        "especie": "Gato"
+      },
+      "fecha": "29/01/2024",
+      "hora_llegada": "12:15",
+      "servicio": "Cepillado dental"
+    },
+    {
+      "id": "18",
+      "propietario": {
+        "nombre": "Gabriela Silva",
+        "telefono": "3366788990"
+      },
+      "mascota": {
+        "nombre": "Lucky",
+        "especie": "Perro"
+      },
+      "fecha": "30/01/2024",
+      "hora_llegada": "10:20",
+      "servicio": "Consulta veterinaria"
+    },
+    {
+      "id": "19",
+      "propietario": {
+        "nombre": "Mario Vargas",
+        "telefono": "3388900112"
+      },
+      "mascota": {
+        "nombre": "Cinnamon",
+        "especie": "Conejo"
+      },
+      "fecha": "31/01/2024",
+      "hora_llegada": "08:30",
+      "servicio": "Corte de uñas"
+    },
+    {
+      "id": "20",
+      "propietario": {
+        "nombre": "Laura Hernández",
+        "telefono": "3401122334"
+      },
+      "mascota": {
+        "nombre": "Whiskey",
+        "especie": "Gato"
+      },
+      "fecha": "01/02/2024",
+      "hora_llegada": "13:40",
+      "servicio": "Baño y corte de pelo"
     }
   ],
   "serviciosBannios": [
     {
+      "id": "1",
       "fecha": "13/01/2024",
       "hora_llegada": "10:19",
       "hora_salida": "11:19",
@@ -80,6 +333,7 @@
   ],
   "serviciosGuarderia": [
     {
+      "id": "1",
       "fecha": "13/01/2024",
       "hora_llegada": "10:19",
       "hora_salida": "11:19",
