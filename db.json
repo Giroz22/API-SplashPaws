@@ -18,15 +18,306 @@
   ],
 
   "productos": [
+    
     {
-      "id": "123",
-      "urlImagen": "/#",
+      "id": 1,
+      "urlImagen": "https://image.made-in-china.com/202f0j00AaebnVFMSKzg/New-Soft-Neoprene-Reflective-Dog-Collar.webp",
+      "nombre": "Collar Reflectante",
+      "descripcion": "Ideal para paseos nocturnos",
+      "precio": "$15.000",
+      "stock": 30,
+      "categoria": "Accesorios",
+      "especie": "Perro"
+    },
+    {
+      "id": 2,
+      "urlImagen": "https://http2.mlstatic.com/D_NQ_NP_804933-MCO69390252977_052023-O.webp",
+      "nombre": "Cepillo para Gatos",
+      "descripcion": "Elimina el pelo suelto",
+      "precio": "$10.000",
+      "stock": 25,
+      "categoria": "Accesorios",
+      "especie": "Gato"
+    },
+    {
+      "id": 3,
+      "urlImagen": "https://tucachorrotienda.com/wp-content/uploads/2021/08/cargadores-para-cachorro2.jpg",
+      "nombre": "Bolso Transportador",
+      "descripcion": "Cómodo y seguro para viajes",
+      "precio": "$40.000",
+      "stock": 15,
+      "categoria": "Accesorios",
+      "especie": "General"
+    },
+    {
+      "id": 4,
+      "urlImagen": "https://konnexbank.com/cdn/shop/products/product-image-998510210.jpg",
+      "nombre": "Arnés Ajustable",
+      "descripcion": "Evita tirones bruscos",
+      "precio": "$20.000",
+      "stock": 20,
+      "categoria": "Accesorios",
+      "especie": "Perro"
+    },
+    {
+      "id": 5,
+      "urlImagen": "https://www.ainoxsas.com/wp-content/uploads/2018/02/Bordes-De-Goma-Antideslizante-Recipiente-Para-Perros-de-Acero-inoxidable-Cuencos-de-Comida-Para-Mascotas-plata.jpg_640x640.jpg",
+      "nombre": "Comedero de Acero",
+      "descripcion": "Duradero y fácil de limpiar",
+      "precio": "$12.000",
+      "stock": 40,
+      "categoria": "Accesorios",
+      "especie": "General"
+    },
+    {
+      "id": 6,
+      "urlImagen": "https://italcolmascotas.com/wp-content/uploads/2021/03/Chunky-Pollo-razas-pequenas.jpg",
       "nombre": "Chunky",
       "descripcion": "Recomendado para mascotas",
       "precio": "$48.000",
       "stock": 20,
-      "categoria": "Alimento",
+      "categoria": "Alimentos",
       "especie": "Perro"
+    },
+    {
+      "id": 7,
+      "urlImagen": "https://media.justo.mx/products/UPC_04_7502002873734_04.jpg",
+      "nombre": "Croquetas Premium",
+      "descripcion": "Ingredientes naturales",
+      "precio": "$55.000",
+      "stock": 10,
+      "categoria": "Alimentos",
+      "especie": "Gato"
+    },
+    {
+      "id": 8,
+      "urlImagen": "https://static.miscota.com/media/1/photos/products/013910/4008239252470_m.jpg",
+      "nombre": "Snacks para Roedores",
+      "descripcion": "Enriquecidos con vitaminas",
+      "precio": "$8.000",
+      "stock": 35,
+      "categoria": "Alimentos",
+      "especie": "Roedor"
+    },
+    {
+      "id": 9,
+      "urlImagen": "https://purina.com.co/sites/default/files/styles/webp/public/2022-11/DC8.jpg.webp",
+      "nombre": "Comida Húmeda",
+      "descripcion": "Sabores variados",
+      "precio": "$25.000",
+      "stock": 15,
+      "categoria": "Alimentos",
+      "especie": "General"
+    },
+    {
+      "id": 10,
+      "urlImagen": "https://animalsveterinaria.vteximg.com.br/arquivos/ids/163765-1000-1000/24.jpg",
+      "nombre": "Galletas para Perros",
+      "descripcion": "Sin azúcares añadidos",
+      "precio": "$10.000",
+      "stock": 30,
+      "categoria": "Alimentos",
+      "especie": "Perro"
+    },
+    {
+      "id": 11,
+      "urlImagen": "https://http2.mlstatic.com/D_NQ_NP_637740-MCO54971002396_042023-O.webp",
+      "nombre": "Pelota de Goma",
+      "descripcion": "Resistente a mordidas",
+      "precio": "$7.000",
+      "stock": 25,
+      "categoria": "Juguetes",
+      "especie": "Perro"
+    },
+    {
+      "id": 12,
+      "urlImagen": "https://i.linio.com/p/7fbdd464e78cf536f05a5feea6ed6701-product.jpg",
+      "nombre": "Ratón de Juguete",
+      "descripcion": "Con hierba gatera",
+      "precio": "$5.000",
+      "stock": 20,
+      "categoria": "Juguetes",
+      "especie": "Gato"
+    },
+    {
+      "id": 13,
+      "urlImagen": "https://pampermut.com/blog/wp-content/uploads/2020/06/fuzzyard-donut-gigante-peluche-para-perro-1100x770.jpg",
+      "nombre": "Peluche para Perros",
+      "descripcion": "Suave y lavable",
+      "precio": "$12.000",
+      "stock": 15,
+      "categoria": "Juguetes",
+      "especie": "Perro"
+    },
+    {
+      "id": 14,
+      "urlImagen": "https://http2.mlstatic.com/D_NQ_NP_985005-MCO53864137496_022023-O.webp",
+      "nombre": "Juguete de Cuerda",
+      "descripcion": "Para juegos interactivos",
+      "precio": "$8.000",
+      "stock": 20,
+      "categoria": "Juguetes",
+      "especie": "General"
+    },
+    {
+      "id": 15,
+      "urlImagen": "https://hierbaparagatos.com/cdn/shop/products/Lamedorazul.jpg",
+      "nombre": "Pelota Catnip",
+      "descripcion": "Estimula el juego",
+      "precio": "$6.000",
+      "stock": 30,
+      "categoria": "Juguetes",
+      "especie": "Gato"
+    },
+    {
+      "id": 16,
+      "urlImagen": "https://petentrega.vteximg.com.br/arquivos/ids/162087/shampoo-cachorros-pe0476.jpg",
+      "nombre": "Champú para Cachorros",
+      "descripcion": "Suave con la piel",
+      "precio": "$18.000",
+      "stock": 25,
+      "categoria": "Higiene",
+      "especie": "Perro"
+    },
+    {
+      "id": 17,
+      "urlImagen": "https://doglandmascotas.com/wp-content/uploads/2020/10/guante-magico-perros-454079_772x604.jpg",
+      "nombre": "Cepillo con forma de mano",
+      "descripcion": "Elimina el pelo suelto",
+      "precio": "$10.000",
+      "stock": 20,
+      "categoria": "Higiene",
+      "especie": "General"
+    },
+    {
+      "id": 18,
+      "urlImagen": "https://laikapp.s3.amazonaws.com/dev_images_products/74066e7bbd826db62651241b5d59432d_1702504222.jpg",
+      "nombre": "Toallitas Limpiadoras",
+      "descripcion": "Sin fragancias añadidas",
+      "precio": "$8.000",
+      "stock": 30,
+      "categoria": "Higiene",
+      "especie": "General"
+    },
+    {
+      "id": 19,
+      "urlImagen": "https://laikapp.s3.amazonaws.com/dev_images_products/13361_148303_SHAMPOO_CANAMOR_ANTIPULGAS_1648479658_500x500.jpg",
+      "nombre": "Champú Antipulgas",
+      "descripcion": "Efectivo y seguro",
+      "precio": "$22.000",
+      "stock": 15,
+      "categoria": "Higiene",
+      "especie": "General"
+    },
+    {
+      "id": 20,
+      "urlImagen": "https://m.media-amazon.com/images/I/71aFXvJ2biL._AC_SL1500_.jpg",
+      "nombre": "Peluche de Dientes",
+      "descripcion": "Para limpieza diaria",
+      "precio": "$5.000",
+      "stock": 40,
+      "categoria": "Higiene",
+      "especie": "General"
+    },
+    {
+      "id": 21,
+      "urlImagen": "https://co.virbac.com/files/live/sites/virbac-co/files/predefined-files/packshots/600x600/effitix-group-large.jpg",
+      "nombre": "Antiparasitario Externo",
+      "descripcion": "Protección prolongada",
+      "precio": "$30.000",
+      "stock": 20,
+      "categoria": "Salud",
+      "especie": "Perro"
+    },
+    {
+      "id": 22,
+      "urlImagen": "https://animalscenter.com/967-large_default/bonavit-suplemento-vitaminico-suspension-120-ml.jpg",
+      "nombre": "Suplemento Vitamínico",
+      "descripcion": "Fortalece el sistema inmunológico",
+      "precio": "$40.000",
+      "stock": 10,
+      "categoria": "Salud",
+      "especie": "General"
+    },
+    {
+      "id": 23,
+      "urlImagen": "https://cdnx.jumpseller.com/www-kewanpet-cl/image/23249539/Hb848963b31564ecd849f06628d9456e3m.jpg",
+      "nombre": "Pasta Dental para Gatos",
+      "descripcion": "Ayuda a prevenir el sarro",
+      "precio": "$15.000",
+      "stock": 25,
+      "categoria": "Salud",
+      "especie": "Gato"
+    },
+    {
+      "id": 24,
+      "urlImagen": "https://www.sani.com.ar/productos/fotos/6712.jpg",
+      "nombre": "Jarabe Desparasitante",
+      "descripcion": "Para todas las especies",
+      "precio": "$25.000",
+      "stock": 15,
+      "categoria": "Salud",
+      "especie": "General"
+    },
+    {
+      "id": 25,
+      "urlImagen": "https://static.miscota.com/media/1/photos/products/189237/naturanimal-suplemento-articular-para-perros-60kg_1_g.jpeg",
+      "nombre": "Suplemento Articular",
+      "descripcion": "Para mascotas de edad avanzada",
+      "precio": "$35.000",
+      "stock": 20,
+      "categoria": "Salud",
+      "especie": "Perro"
+    },
+    {
+      "id": 26,
+      "urlImagen": "https://www.gordogs.com.co/wp-content/uploads/2021/01/sue%CC%81ter-furryOFF-Gordogs-espalda.jpg",
+      "nombre": "Suéter para Perros",
+      "descripcion": "Abrigado y cómodo",
+      "precio": "$20.000",
+      "stock": 30,
+      "categoria": "Ropita",
+      "especie": "Perro"
+    },
+    {
+      "id": 27,
+      "urlImagen": "https://i.pinimg.com/736x/3d/66/c9/3d66c93912bcac189972c0d92b02ca09.jpg",
+      "nombre": "Vestido Elegante para Gatas",
+      "descripcion": "Para ocasiones especiales",
+      "precio": "$25.000",
+      "stock": 20,
+      "categoria": "Ropita",
+      "especie": "Gato"
+    },
+    {
+      "id": 28,
+      "urlImagen": "https://laikapp.s3.amazonaws.com/dev_images_products/69712_150843_Argos___Capa_Impermeable_Malla__1649170722_500x500.jpg",
+      "nombre": "Capa Impermeable",
+      "descripcion": "Protege de la lluvia",
+      "precio": "$30.000",
+      "stock": 15,
+      "categoria": "Ropita",
+      "especie": "Perro"
+    },
+    {
+      "id": 29,
+      "urlImagen": "https://www.tuteate.com/wp-content/uploads/2015/01/tutorial-jersey-para-perro-tejido-en-telar.jpg",
+      "nombre": "Jersey Tejido",
+      "descripcion": "Para mantenerse cálido",
+      "precio": "$18.000",
+      "stock": 25,
+      "categoria": "Ropita",
+      "especie": "General"
+    },
+    {
+      "id": 30,
+      "urlImagen": "https://i.pinimg.com/222x/ca/6a/16/ca6a167995c97020beb007ba755f72ea.jpg",
+      "nombre": "Bufanda para Mascotas",
+      "descripcion": "Estilo y funcionalidad",
+      "precio": "$12.000",
+      "stock": 35,
+      "categoria": "Ropita",
+      "especie": "General"
     }
   ],
   "serviciosPendientes": [
