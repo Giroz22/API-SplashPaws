@@ -91,13 +91,13 @@
     },
     {
       "id": 8,
-      "urlImagen": "https://static.miscota.com/media/1/photos/products/013910/4008239252470_m.jpg",
-      "nombre": "Snacks para Roedores",
+      "urlImagen": "https://comfandivirtual.com.co/home/18296-large_default/alimento-para-perros-seco-adulto-carne-parrilla-bolsa-1000gr-dogourmet.jpg",
+      "nombre": "Dougurmet adultos",
       "descripcion": "Enriquecidos con vitaminas",
-      "precio": "$8.000",
+      "precio": "$18.000",
       "stock": 35,
       "categoria": "Alimentos",
-      "especie": "Roedor"
+      "especie": "Perros"
     },
     {
       "id": 9,
